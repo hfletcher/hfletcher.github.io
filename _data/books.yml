@@ -1,0 +1,50 @@
+thirties:
+  - title: "Ourselves: Being Poems out of the Rice Institute"
+    author: "Dr. Stockton Axson"
+    publish_location: Houston
+    year: 1931
+    pages: x plus 63 pp
+    dimensions: 5.5 x 7.75
+    images:
+      - image_path: /images/ourselves/1.jpg
+      - image_path: /images/ourselves/2.jpg
+      - image_path: /images/ourselves/3.jpg
+      - image_path: /images/ourselves/4.jpg
+  - title: "The Heroes of San Jacinto"
+    author: "Sam Dixon & Louis Kemp"
+    publish_location: Houston
+    year: 1932
+    pages: xv plus 462pp
+    dimensions: 6.5 x 9.25
+    description: "Red cloth, no dj, Publisher’s Foreword, eight illustrations, Jenkins BTB 43, also in blue cloth, also references a 4 page advertisement for the book."
+forties:
+  - title: "Port Arthur"
+    author: "American Guide Series"
+    publish_location: Houston
+    year: 1940
+    pages: xvii plus 164pp
+    dimensions: 5.75 x 8.5
+    description: "bound in seaplane fabric, dj"
+fifties:
+  - title: "Harris County, Republic of Texas 1839-45"
+    author: "Herbert Fletcher (editor)"
+    publish_location: Houston
+    year: 1950
+    pages: 30pp
+    dimensions: 6x9
+sixties:
+  - title: "Railroads to the Rio"
+    author: "American Guide Series"
+    publish_location: Salado
+    year: 1960
+    pages: 210pp
+    dimensions: 6.5 x 9.75
+    description: "red cloth some with black title labels, limited to 1000 copies"
+seventies:
+  - title: "The Chihuahua Trail – 1868"
+    author: "Rudolph Mellard"
+    publish_location: Salado
+    year: 1973
+    pages: 315pp
+    dimensions: 6 x 9
+    description: "cream pictorial covers, limited to 150 copies"

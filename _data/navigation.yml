@@ -1,0 +1,57 @@
+main_side:
+  - title: Home
+    url: /
+    children:
+      - title: About
+        url: /about
+      - title: Fletcher Family
+        url: /family
+      - title: Anson Jones Press
+        url: /ajp_about
+  - title: Texana
+    children:
+      - title: Fletcher's Books
+        url: https://www.facebook.com/pages/Fletchers-Books-Antiques/116274205067634
+      - title: Dorthy Sloan
+        url: http://www.dsloan.com/
+      - title: The Wright Collection
+        url: http://www.thewrightcollection.com/
+      - title: Maggie Lambeth
+        url: http://www.texanbooks.com/
+      - title: Ann Becker
+        url: http://www.houstonbooks.com/
+family:
+  - title: Home
+    url: /
+    children:
+      - title: About
+        url: /about
+      - title: Fletcher Family
+        url: /family
+      - title: Anson Jones Press
+        url: /ajp_about
+ajp:
+  - title: Home
+    url: /
+    children:
+      - title: About
+        url: /about
+      - title: Fletcher Family
+        url: /family
+      - title: Anson Jones Press
+        url: /ajp_about
+  - title: Anson Jones Press
+    url: /ajp_about
+    children:
+      - title: List of Publications
+        url: /ajp_list
+      - title: "1930's"
+        url: /ajp_1930
+      - title: "1940's"
+        url: /ajp_1940
+      - title: "1950's"
+        url: /ajp_1950
+      - title: "1960's"
+        url: /ajp_1960
+      - title: "1970's"
+        url: /ajp_1970
