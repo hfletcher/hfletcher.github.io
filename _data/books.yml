@@ -6,10 +6,12 @@ thirties:
     pages: x plus 63 pp
     dimensions: 5.5 x 7.75
     images:
-      - image_path: /images/ourselves/1.jpg
+      - url: /images/ourselves/1.jpg
+        image_path: /images/ourselves/1.jpg
       - image_path: /images/ourselves/2.jpg
       - image_path: /images/ourselves/3.jpg
-      - image_path: /images/ourselves/4.jpg
+      - url: /images/ourselves/4.jpg
+        image_path: /images/ourselves/4.jpg
   - title: "The Heroes of San Jacinto"
     author: "Sam Dixon & Louis Kemp"
     publish_location: Houston
