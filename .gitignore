@@ -1,4 +1,5 @@
 /.ruby-version
 /.ruby-gemset
 .DS_Store
-/_site
+_site
+Gemfile.lock
